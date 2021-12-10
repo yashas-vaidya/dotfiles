@@ -1,0 +1,7 @@
+{
+    "desc": "yv_demo_machine",
+    "settings": {
+        "theme": "agnoster",
+        "plugins": "git"
+        }
+}
