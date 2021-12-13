@@ -4,7 +4,7 @@ This repo is [forked](https://github.com/michaeljsmalley/dotfiles). Please read 
 
 In this instance, these dotfiles are used to customize user settings on Linux/ MacOS. If you want to read more about dotfiles, [this blog post provides a more detailed introduction](https://web.archive.org/web/20201101094752/https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/). 
 
-Similar to the simple example here, there are more, there are other tools to manage dotfiles--for example, [Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm). 
+Similar to the simple example here, there are other tools to manage dotfiles--for example, [Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm). 
 
 ## Original introduction with mods
 
