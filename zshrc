@@ -113,7 +113,7 @@ source $ZSH/oh-my-zsh.sh
 prompt_context() {
   if [[ "$USER" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
     # prompt_segment black default "%(!.%{%F{yellow}%}.)%n@%m"
-    prompt_segment black default "%(!.%{%F{yellow}%}.)\U1F99A"
+    prompt_segment black default "%(!.%{%F{yellow}%}.)\U1F4DE"
   fi
 }
 
