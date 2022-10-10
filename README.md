@@ -2,11 +2,11 @@
 
 This repo is [forked](https://github.com/michaeljsmalley/dotfiles). Please read below to find the original introduction by [Michael J. Smalley](https://github.com/michaeljsmalley). It shows how to store, replicate and version control dotfiles. 
 
-In this instance, these dotfiles are used to customize user settings on Linux/ MacOS. If you want to read more about dotfiles, [this blog post provides a more detailed introduction](https://web.archive.org/web/20201101094752/https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/). 
+In this instance, these dotfiles are used to customize user settings on Linux/ MacOS for `zsh`-the Z shell. If you want to read more about dotfiles, [this blog post provides a more detailed introduction](https://web.archive.org/web/20201101094752/https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/). 
 
 Similar to the simple example here, there are other tools to manage dotfiles--for example, [Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm). 
 
-## Original introduction with mods
+## Original introduction with modificaitons
 
 This repository includes ~~all~~ some of my custom dotfiles.  They should be cloned to ~~your~~ a user's home directory so that the path is `~/dotfiles/`. The included setup script creates symlinks from ~~your~~ the home directory to the files which are located in `~/dotfiles/`.
 
