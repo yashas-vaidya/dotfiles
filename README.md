@@ -1,10 +1,18 @@
-## Dotfiles repo / example
+## Dotfiles repo example
 
-This repo is [forked](https://github.com/michaeljsmalley/dotfiles). Please read below to find the original introduction by [Michael J. Smalley](https://github.com/michaeljsmalley). It shows how to store, replicate and version control dotfiles. 
+> :warning: **WARNING:** This repo is [forked](https://github.com/michaeljsmalley/dotfiles). Please read below to find the original introduction by [Michael J. Smalley](https://github.com/michaeljsmalley). It shows how to store, replicate and use these dotfiles. 
+This is an example of a simple yet working dotfile repo. It customizes user settings on Linux/ MacOS for `zsh`--the Z shell. It provides a minimal base that can be modified or customzied for different machines and environs.
 
-In this instance, these dotfiles are used to customize user settings on Linux/ MacOS for `zsh`-the Z shell. If you want to read more about dotfiles, [this blog post provides a more detailed introduction](https://web.archive.org/web/20201101094752/https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/). 
+> :shrug: *NOTE:* Preferences for the customization of dotfiles depends on use case, development needs. YMMV!
 
-Similar to the simple example here, there are other tools to manage dotfiles--for example, [Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm). 
+If you want to read more about dotfiles, [this blog post provides a more detailed introduction](https://web.archive.org/web/20201101094752/https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/).
+
+Similar to the simple example here, there are many tools to manage dotfiles. Here's a quick list:
+
+- [dotfiles](python dotfiles): dotfiles for Python-based development
+- [chezmoi](): public repo for dotfiles
+- [Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm): programmatic dotfiles management
+
 
 ## Original introduction with modificaitons
 
