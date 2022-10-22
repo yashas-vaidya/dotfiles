@@ -1,10 +1,10 @@
 ## Dotfiles repo example
 
-> :warning: **WARNING:** This repo is [forked](https://github.com/michaeljsmalley/dotfiles). Please read below to find the original introduction by [Michael J. Smalley](https://github.com/michaeljsmalley). It shows how to store, replicate and use these dotfiles.
+> :warning: **WARNING**: This repo is [forked](https://github.com/michaeljsmalley/dotfiles). Please read below to find the [original introduction](#original-introduction) by [Michael J. Smalley](https://github.com/michaeljsmalley). It shows how to store, replicate and use these dotfiles.
 
 This is an example of a simple yet working dotfile repo. It customizes user settings on Linux/ MacOS for `zsh`--the Z shell. It provides a minimal base that can be modified or customzied for different machines and environs.
 
-> :shrug: *NOTE:* Preferences for the customization of dotfiles depends on use case, development needs. YMMV!
+> *NOTE*: Preferences for the customization of dotfiles depends on use case and development needs. YMMV! :shrug:
 
 If you want to read more about dotfiles, [this blog post provides a more detailed introduction](https://web.archive.org/web/20201101094752/https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/).
 
@@ -14,7 +14,7 @@ Similar to the simple example here, there are many tools to manage dotfiles. Her
 - [Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm): yet another programmatic manager
 - [Dotbot](https://github.com/anishathalye/dotbot): dotfiles bootstrapper
 
-## ~~Original ~~Introduction
+## ~~Original~~ Introduction
 
 This repository includes some of my custom dotfiles. They can be cloned into a user's home directory so that the path is `~/dotfiles/`. The included setup script creates symlinks from the home directory to the files which are located in `~/dotfiles/`.
 
