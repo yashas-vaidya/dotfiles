@@ -4,7 +4,7 @@
 
 This is an example of a simple yet working dotfile repo. It customizes user settings on Linux/ MacOS for `zsh`--the Z shell. It provides a minimal base that can be modified or customzied for different machines and environs.
 
-> *NOTE*: Preferences for the customization of dotfiles depends on use case and development needs. YMMV! :shrug:
+> :bulb: *NOTE*: Preferences for the customization of dotfiles depends on use case and development needs. YMMV!
 
 If you want to read more about dotfiles, [this blog post provides a more detailed introduction](https://web.archive.org/web/20201101094752/https://about.gitlab.com/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/).
 
