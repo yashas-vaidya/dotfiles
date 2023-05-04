@@ -1,3 +1,10 @@
+# double arch setup
+
+## alias for quick switch
+
+alias intel="env /usr/bin/arch -x86_64 /bin/zsh --login "
+alias arm="env /usr/bin/arch -arm64 /bin/zsh --login"
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
