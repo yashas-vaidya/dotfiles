@@ -5,6 +5,11 @@
 alias intel="env /usr/bin/arch -x86_64 /bin/zsh --login "
 alias arm="env /usr/bin/arch -arm64 /bin/zsh --login"
 
+## doublebrew -- extra strong!
+
+alias ibrew="arch -x86_64 /usr/local/homebrew/bin/brew"
+alias abrew="arch -arm64 /opt/homebrew/bin/brew"
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
