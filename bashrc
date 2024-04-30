@@ -35,3 +35,10 @@ alias ls="ls -Glah"
 export CLICOLOR=1
 # Set "ls" colors
 export LSCOLORS=Gxfxcxdxbxegedabagacad
+
+##############################################################################
+# 04. Custom
+##############################################################################
+
+export PATH=$HOME/zsh/bin:$PATH
+exec zsh
