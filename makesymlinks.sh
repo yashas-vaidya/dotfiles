@@ -9,7 +9,7 @@
 dir=$HOME/workspace/user-versioned/dotfiles   # dotfiles directory
 olddir=$HOME/dotfiles_old # old dotfiles backup directory
 # files="bashrc vimrc vim zshrc oh-my-zsh private scrotwm.conf Xresources"    # list of files/folders to symlink in homedir
-files=("bashrc" "zshrc")
+files=("bashrc" "zshrc" "gitconfig")
 
 ##########
 
