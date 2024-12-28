@@ -2,6 +2,6 @@
     "desc": "yv_demo",
     "settings": {
         "theme": "agnoster",
-        "plugins": "git"
+        "plugins-not-working": "git"
         }
 }
